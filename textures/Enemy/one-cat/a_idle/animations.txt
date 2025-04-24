@@ -1,0 +1,7 @@
+textures/Enemy/one-cat/a_idle/Animate_1.xpm
+textures/Enemy/one-cat/a_idle/Animate_2.xpm
+textures/Enemy/one-cat/a_idle/Animate_3.xpm
+textures/Enemy/one-cat/a_idle/Animate_4.xpm
+textures/Enemy/one-cat/a_idle/Animate_5.xpm
+textures/Enemy/one-cat/a_idle/Animate_6.xpm
+textures/Enemy/one-cat/a_idle/Animate_7.xpm

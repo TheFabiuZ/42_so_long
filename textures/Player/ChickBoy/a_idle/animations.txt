@@ -1,0 +1,5 @@
+textures/Player/ChickBoy/a_idle/Animate_1.xpm
+textures/Player/ChickBoy/a_idle/Animate_2.xpm
+textures/Player/ChickBoy/a_idle/Animate_3.xpm
+textures/Player/ChickBoy/a_idle/Animate_4.xpm
+textures/Player/ChickBoy/a_idle/Animate_5.xpm

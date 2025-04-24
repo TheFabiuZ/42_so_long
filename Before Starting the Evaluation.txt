@@ -1,0 +1,7 @@
+1- Install MinilibX for Linux
+2- Move MinilibX dir in so_long dir (same dir of this .txt file)
+3- Rename Minilibx dir in "mlx_linux"
+4- Open "mlx_linux"
+5- Open a Terminal and execute the command './configure'
+6- Test if MinilibX is Installed and is working in "./mlx_linux/test" using the command './mlx-test'
+7- Now you're ready for evaluate the project!!!
